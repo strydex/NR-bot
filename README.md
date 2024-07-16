@@ -37,4 +37,4 @@ Interact with the bot in your Telegram app. Start a chat with the bot and send i
 - `/help` - Displays a help message with information on how to use the bot.
 
 ## License
-AYNT Bot is open-source software licensed under the MIT License. Feel free to use, modify, and distribute the code as per the terms of the license.
+NR Bot is open-source software licensed under the MIT License. Feel free to use, modify, and distribute the code as per the terms of the license.
