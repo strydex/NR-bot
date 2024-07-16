@@ -1,15 +1,12 @@
 <div align="center">
-   <a href="https://github.com/Prevter/FloatTool">
-      <img src="docs/Icon.svg" alt="Logo" width="80" height="80">
-   </a>
-   <h3 align="center">AYNT Bot</h3>
+   <h3 align="center">NR Bot</h3>
    <p align="center">
-      AYNT Bot is a Telegram bot designed to help users easily download videos from various social media platforms such as YouTube, TikTok, Instagram, and Twitter.
+      NR Bot is a Telegram bot designed to help users easily download videos from various social media platforms such as YouTube, TikTok, Instagram, and Twitter.
    </p>
 </div>
 
 ## Introduction
-AYNT Bot is powered by the Telegraf library and allows users to send video URLs from supported platforms to the bot. The bot then downloads the videos from these URLs and sends them back to the user in telegram. The supported platforms include YouTube, TikTok, Instagram, and Twitter.
+NR Bot is powered by the Telegraf library and allows users to send video URLs from supported platforms to the bot. The bot then downloads the videos from these URLs and sends them back to the user in telegram. The supported platforms include YouTube, TikTok, Instagram, and Twitter.
 
 ## Getting Started
 Make sure you have Node.js installed on your system.
